@@ -1,5 +1,5 @@
 # BlackJackAdviser
-proceso de desarrollo de programa consejero para blackjack. Hecho especificamente para blackjack one de www.betplay.com.co simuladores, algoritmo voraz y sin terminar calculo exacto de probabilidades por juego antes de dar consejo al usuario.
+proceso de desarrollo de programa consejero para blackjack. Hecho especificamente para blackjack one de www.betplay.com.co simuladores, algoritmo voraz y --sin terminar-- calculo exacto de probabilidades por juego antes de dar consejo al usuario.
 la ventaja inicial de la casa es de 0.78% con las siguientes reglas
 8 barajas
 corte 50%
