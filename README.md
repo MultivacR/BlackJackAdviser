@@ -21,4 +21,4 @@ este programa puede ser mejorado para crear un archivo .apk y ejecutarlo en casi
 
 El codigo es feo en algunas partes ya que no es una versión final, puede ser comprimido a la mitad solo con reescribirlo.
 
-EL ACTUAL PROGRAMA GENERA UTILIDADES SI EL CAPITAL ES SUFICIENTEMENTE ROBUSTO PARA EVITAR LA RUINA  Y SE TIENE SUFICIENTE PACIENCIA
+EL ACTUAL PROGRAMA GENERA UTILIDADES SI EL CAPITAL ES SUFICIENTEMENTE ROBUSTO PARA EVITAR SUPERAR EL UMBRAL DE PROBABILIDAD DE RUINA.
